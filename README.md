@@ -46,7 +46,8 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&color=E34F26)
-
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
+![](https://img.shields.io/badge/Code-Firebird-informational?style=flat&logo=Firebird&color=336791)
 
 </br>
 
