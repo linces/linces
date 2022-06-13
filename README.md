@@ -26,8 +26,9 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-**- 🔭** I’m currently working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase.
+**- 🔭** I’m currently working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase. 
 
+It's been 26 years of passion for software development, today more than ever.
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
@@ -69,7 +70,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
 ![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
-![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materializecss&color=7952B3)
+
 
 </br>
 
