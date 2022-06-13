@@ -41,6 +41,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=E34F26)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
@@ -54,7 +55,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
-![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sqlserver&color=61DAFB)
+![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
 
 
 
