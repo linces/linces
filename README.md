@@ -57,7 +57,11 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
 ![](https://img.shields.io/badge/Code-OpenCV-informational?style=OpenCV&logo=sql&color=white)
-
+![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=TensorFlow&logo=sql&color=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
+![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
 
 </br>
 
