@@ -55,4 +55,5 @@ Currently working on the development and maintenance of software for Public Acco
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
