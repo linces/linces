@@ -41,6 +41,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -82,7 +83,8 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=E34F26)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=61DAFB)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=E34F26)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&color=E34F26)
+![](https://img.shields.io/badge/Code-Uniface-informational?style=flat&logo=uniface&color=F7DF1E)
+
 
 <br>
 
