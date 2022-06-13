@@ -26,6 +26,12 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-**- 🔭** I’m currently working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native.
+**- 🔭** I’m currently working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase.
+
+
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
