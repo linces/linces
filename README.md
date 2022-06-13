@@ -56,19 +56,18 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=OpenCV&logo=sql&color=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=TensorFlow&logo=sql&color=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
-![](https://img.shields.io/badge/OpenCV-27338e?style=OpenCV&logo=sql&color=white)
+![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=sql&color=white)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=TensorFlow&logo=sql&color=white)
+![](https://img.shields.io/badge/Code-Elastic Search-informational?style=elasticsearch&logo=sql&color=red)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=OpenCV&logo=mongodb&color=green)
+![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=gray)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind&color=1572B6)
+![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
 ![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize&color=7952B3)
 
 
@@ -82,6 +81,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=F05032)
 ![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&color=181717)
+![](https://img.shields.io/badge/Tools-Apache?style=elasticsearch&logo=apache&color=red)
 
 
 ## 🌱 Learning 
