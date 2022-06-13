@@ -54,7 +54,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
-![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=SQLServer&color=61DAFB)
+![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sqlserver&color=61DAFB)
 
 
 
