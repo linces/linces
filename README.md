@@ -81,7 +81,7 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=E34F26)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=61DAFB)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&color=E34F26)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=E34F26)
 ![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=c#&color=E34F26)
 
 <br>
