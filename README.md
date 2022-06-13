@@ -80,8 +80,6 @@ Currently working on the development and maintenance of software for Public Acco
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
-[![Visitors](https://## 📈 GitHub Stats 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces)](https://github.com/linces)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
