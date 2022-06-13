@@ -68,8 +68,8 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
-![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize&color=7952B3)
-
+![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
+![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materializecss&color=7952B3)
 
 </br>
 
