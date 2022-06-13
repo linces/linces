@@ -76,6 +76,8 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=F05032)
+![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&color=181717)
 
 
 ## 🌱 Learning 
