@@ -73,8 +73,14 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 🌱 I’m currently learning ...
 
+## 🌱 Learning 
+
+![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=E34F26)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=61DAFB)
+
+<br>
 
 ## 📈 GitHub Stats 
 
