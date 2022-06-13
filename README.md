@@ -35,7 +35,6 @@ Currently working on the development and maintenance of software for Public Acco
 </div> 
 
 
-
 ### Connect with me  :coffee:
 <p align="center">
 	<a href="https://github.com/linces"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
@@ -60,7 +59,16 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 </br>
-	## 📈 GitHub Stats 
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
+
+## 📈 GitHub Stats 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces)](https://github.com/linces)
 
@@ -73,5 +81,5 @@ Currently working on the development and maintenance of software for Public Acco
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
