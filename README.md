@@ -1,4 +1,4 @@
-### Hi, Im'm Linces Marques 👋
+### Hi, Im'm Linces Marques 👋 
 
 <!--
 **linces/linces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,6 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-- 🔭 I’m working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies.
+**- 🔭** I’m currently working on the development and maintenance of software for Public Accounting, Sanitation Management, Municipal Taxes with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
