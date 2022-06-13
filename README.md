@@ -78,7 +78,13 @@ Currently working on the development and maintenance of software for Public Acco
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
-### 🤝 Connect with me:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
+
+
+### 🤝 Connect with me:
+
+<p align="center">
+	<a href="https://github.com/linces"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/lincesmarques/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
