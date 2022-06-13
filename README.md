@@ -39,6 +39,7 @@ Currently working on the development and maintenance of software for Public Acco
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -47,12 +48,12 @@ Currently working on the development and maintenance of software for Public Acco
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
-![](https://img.shields.io/badge/Code-Firebird-informational?style=flat&logo=firebird&color=336791)
+![](https://img.shields.io/badge/Code-Firebird-informational?style=flat&logo=firebirdsql&color=336791)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
-![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
-![](https://img.shields.io/badge/Code-ObjectPascal-informational?style=objectpascal&logo=objectpascal&color=E34F26)
+
+
 
 </br>
 
