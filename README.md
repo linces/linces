@@ -26,7 +26,7 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-**-🔭** I came from clipper, in which I started to develop in the distant year of 1995, a quick pass through visual basic, and then Object Pascal / Delphi.
+**🔭** I came from clipper, which i started to develop in the distant year of 1995, a quick pass through visual basic, and then Object Pascal / Delphi, and a couple of languages since then, including PHP, JavaScript, and more recently Dart/Flutter. But i consider Object Pascal/Delphi to be my mother programming language.
 
 Today i’m currently working on the development and maintenance of software for:
 
@@ -37,11 +37,11 @@ Today i’m currently working on the development and maintenance of software for
 *Human Resource Management System<br>
 *Public Governance System<br>
 
-And a couple of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase. 
+And a couple of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native, and PHP both with firebase. 
 
-A dozen 
+A dozen of past projects in Clipper, PHP, Delphi, JavaScript, etc.
 
-It's been 26 years of passion for software development, today more than ever.
+It's been long years of passion for software development, today more than ever.
 
 <div align="center"> 
 <i>Random dev joke for you!</i></br></br>
