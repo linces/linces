@@ -26,16 +26,20 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-**- 🔭** Today i’m currently working on the development and maintenance of software for:
+**-🔭** I came from clipper, in which I started to develop in the distant year of 1995, a quick pass through visual basic, and then Object Pascal / Delphi.
 
-*Public Accounting System<br> 
-*Sanitation Management<br>  
-*Municipal Taxes<br>  
-*Public Healtcare System<br> 
-*Human Resource Management System<br> 
-*Public Governance System<br> 
+Today i’m currently working on the development and maintenance of software for:
 
-And a dozen of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase. 
+*Public Accounting System<br>
+*Sanitation Management<br> 
+*Municipal Taxes<br> 
+*Public Healtcare System<br>
+*Human Resource Management System<br>
+*Public Governance System<br>
+
+And a couple of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase. 
+
+A dozen 
 
 It's been 26 years of passion for software development, today more than ever.
 
