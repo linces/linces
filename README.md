@@ -26,14 +26,14 @@ Currently working on the development and maintenance of software for Public Acco
 
 
 
-**- 🔭** Today, i’m currently working on the development and maintenance of software for:
+**- 🔭** Today i’m currently working on the development and maintenance of software for:
 
-*Public Accounting System 
-*Sanitation Management 
-*Municipal Taxes 
-*Public Healtcare System
-*Human Resource Management System
-*Public Governance System
+*Public Accounting System<br> 
+*Sanitation Management<br>  
+*Municipal Taxes<br>  
+*Public Healtcare System<br> 
+*Human Resource Management System<br> 
+*Public Governance System<br> 
 
 And a dozen of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native both with firebase. 
 
