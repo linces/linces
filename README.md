@@ -41,6 +41,10 @@ And a couple of projects, most them with Delphi, Firebird and many others techno
 
 A dozen of past projects in Clipper, PHP, Delphi, JavaScript, etc.
 
+Heavy user of PL/SQL, and by the way, i'm co-author of the book: 
+
+Delphi with Oracle 5 by Market Nooks, ISBN-10 : 8587393456, ISBN-13 : 978-8587393456
+
 It's been long years of passion for software development, today more than ever.
 
 <div align="center"> 
