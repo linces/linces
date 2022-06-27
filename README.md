@@ -37,6 +37,8 @@ Today i’m currently working on the development and maintenance of software for
 *Human Resource Management System<br>
 *Public Governance System<br>
 
+In an experienced software house well positioned in its segment here in Brazil.
+
 And a couple of projects, most them with Delphi, Firebird and many others technologies in daily work. Some personal projects with Dart/Flutter, and some freelancer jobs in ReactJS and React Native, and PHP both with firebase. 
 
 A dozen of past projects in Clipper, PHP, Delphi, JavaScript, etc.
