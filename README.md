@@ -125,7 +125,6 @@ It's been long years of passion for software development, today more than ever.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
 
 ![](https://github-trophies.vercel.app/?username=linces)
 
