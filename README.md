@@ -48,8 +48,10 @@ It's been long years of passion for software development, today more than ever.
 </br>
 
 <div align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
+
 </div> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
 
 ## 💼 Technical Skills
 
