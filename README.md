@@ -43,7 +43,7 @@ It's been long years of passion for software development, today more than ever.
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
 
 
 ## 💼 Technical Skills
