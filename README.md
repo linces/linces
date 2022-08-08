@@ -127,6 +127,7 @@ It's been long years of passion for software development, today more than ever.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
 
+![](https://github-trophies.vercel.app/?username=linces)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
 
