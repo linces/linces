@@ -124,9 +124,9 @@ It's been long years of passion for software development, today more than ever.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
 
-</br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
-</br>
+
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
 
