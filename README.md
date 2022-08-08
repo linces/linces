@@ -38,13 +38,18 @@ Delphi 5 with Oracle 8 by Market Books, ISBN-10 : 8587393456, ISBN-13 : 978-8587
 
 It's been long years of passion for software development, today more than ever.
 
+
 <div align="center"> 
+<!--	
 <i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"> -->
 </div> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
+</br>
 
+<div align="center"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=linces)](https://github.com/linces/github-profile-trophy)
+</div> 
 
 ## 💼 Technical Skills
 
