@@ -62,7 +62,7 @@ It's been long years of passion for software development, today more than ever.
 
 
 >
- ## Simplicity is the ultimate Sophistication
+> ## Simplicity is the ultimate Sophistication
 
 
 ## 💼 Technical Skills
