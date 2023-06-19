@@ -55,10 +55,8 @@ It's been long years of passion for software development, today more than ever.
 	<a href="https://github.com/linces"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/lincesmarques/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
   <a href="https://wa.me/+5534999623545">
-    <img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="WhatsApp" width="30" height="30" style="vertical-align:middle">
-    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" style="fill: #25D366; padding-left: 5px; vertical-align:middle">
-      <path d="M18.166 16.165c-.372 0-.741-.031-1.105-.09l-1.978 1.11.55 2.623c0 .116-.025.235-.084.347-.156.34-.615.776-1.07.775-.123 0-.247-.03-.366-.092l-2.63-1.083-1.56.895c-.52.299-1.165.224-1.615-.305-.45-.529-.567-1.174-.303-1.697l.863-1.627-1.13-2.093c-.298-.56-.46-1.18-.46-1.82s.162-1.26.46-1.82l10.618-10.618c1.004-1.004 2.635-1.004 3.64 0l2.098 2.098c.098.097.177.205.234.323.058.119.09.247.093.376l.005.252c0 .516-.23 1.03-.647 1.446l-1.529 1.53.57 2.23c.07.274.11.556.11.844 0 1.204-.977 2.182-2.182 2.182zm-7.584-5.215c-.391 0-.782.147-1.085.44l-.683.684c-.165.166-.247.386-.216.605l.383 2.07c.027.144-.017.293-.125.402l-.495.495c-.209.209-.31.52-.276.82l.338 2.084c.041.258.152.503.331.682l.703.703c.195.194.457.293.718.271h.236c.298.028.594-.085.822-.313l2.146-2.146c.283-.283.42-.661.384-1.04l-.363-2.222c-.026-.158.013-.322.117-.425l.495-.495c.267-.267.394-.646.346-1.017l-.369-2.24c-.052-.316-.29-.583-.602-.654l-2.358-.544z"></path>
-    </svg>
+    <img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="WhatsApp" width="30" height="30" style="vertical-align: middle;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="30" height="30" style="fill: #25D366; padding-left: 5px; vertical-align: middle;">
   </a>
 </div> 
 
@@ -134,7 +132,7 @@ It's been long years of passion for software development, today more than ever.
 
 ![](https://github-trophies.vercel.app/?username=linces)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=linces.visitor-badge.issue)  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
 
 
 
