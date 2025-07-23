@@ -93,10 +93,14 @@ It has been many years of passion for software development, today more than ever
 
 ## 🌱 Learning 
 
-![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=E34F26)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=61DAFB)
-![](https://img.shields.io/badge/Code-Uniface-informational?style=flat&logo=uniface&color=F7DF1E)
+![](https://img.shields.io/badge/Learning-WebAssembly-informational?style=flat&logo=webassembly&color=654FF0)
+![](https://img.shields.io/badge/Learning-GraphQL-informational?style=flat&logo=graphql&color=E10098)
+![](https://img.shields.io/badge/Learning-Blockchain-informational?style=flat&logo=bitcoin&color=F7931A)
+![](https://img.shields.io/badge/Learning-Solidity-informational?style=flat&logo=solidity&color=363636)
+![](https://img.shields.io/badge/Learning-Quantum-informational?style=flat&logo=qiskit&color=6929C4)
+![](https://img.shields.io/badge/Learning-EdgeComputing-informational?style=flat&logo=cloudflare&color=F38020)
+![](https://img.shields.io/badge/Learning-Microservices-informational?style=flat&logo=istio&color=466BB0)
+![](https://img.shields.io/badge/Learning-Serverless-informational?style=flat&logo=aws-lambda&color=FF9900)
 
 ## 📈 GitHub Stats
 
