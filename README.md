@@ -10,15 +10,13 @@ I am a heavy user of PL/SQL, and by the way, I'm a co-author of the book:
 
 It has been many years of passion for software development, today more than ever.
 
-<div align="center"> 
+<div align="center">
 
-<!--### 🤝 Connect with me:-->
+### 🤝 Connect with me:
 
 <p align="center">
-	<a href="https://wa.me/+5534999623545"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="WhatsApp"/></a>
-	<!--<a href="https://github.com/linces"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>-->
-	<a href="https://www.linkedin.com/in/lincesmarques/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-
+	<a href="https://wa.me/+5534999623545"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+	<a href="https://www.linkedin.com/in/lincesmarques/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 </div> 
@@ -27,6 +25,7 @@ It has been many years of passion for software development, today more than ever
 
 ![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=E34F26)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
@@ -43,11 +42,24 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=sql&color=white)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=TensorFlow&logo=sql&color=white)
-![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=elasticsearch&logo=sql&color=red)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=OpenCV&logo=mongodb&color=green)
-![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=gray)
+![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=opencv&color=5C3EE8)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
+![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=elasticsearch&logo=elasticsearch&color=005571)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=003545)
+
+### 🧠 AI & Math
+![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
+![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikit-learn&color=F7931E)
+![](https://img.shields.io/badge/Math-NumPy-informational?style=flat&logo=numpy&color=013243)
+![](https://img.shields.io/badge/Math-Pandas-informational?style=flat&logo=pandas&color=150458)
+![](https://img.shields.io/badge/Math-Matplotlib-informational?style=flat&logo=matplotlib&color=11557c)
+
+### 🔐 Security & Cracking
+![](https://img.shields.io/badge/Sec-Kali-informational?style=flat&logo=kalilinux&color=557C94)
+![](https://img.shields.io/badge/Sec-Metasploit-informational?style=flat&logo=metasploit&color=2596CD)
+![](https://img.shields.io/badge/Sec-Wireshark-informational?style=flat&logo=wireshark&color=1679A7)
+![](https://img.shields.io/badge/Sec-BurpSuite-informational?style=flat&logo=burpsuite&color=FF6633)
 
 </br>
 
@@ -56,7 +68,6 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
 ![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
-
 
 </br>
 
@@ -70,7 +81,6 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&color=181717)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=elasticsearch&logo=apache&color=red)
 
-
 ## 🌱 Learning 
 
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&color=F7DF1E)
@@ -81,16 +91,13 @@ It has been many years of passion for software development, today more than ever
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces)](https://github.com/linces)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces&show_icons=true&theme=dark)](https://github.com/linces)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact)](https://github.com/linces)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact&theme=dark)](https://github.com/linces)
 
-
-
-![](https://github-trophies.vercel.app/?username=linces)
+![](https://github-trophies.vercel.app/?username=linces&theme=onedark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
 
  ## Simplicity is the ultimate Sophistication
  ## Everything is open source if you know how to break it
-
