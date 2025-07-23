@@ -23,6 +23,7 @@ It has been many years of passion for software development, today more than ever
 
 ## 💼 Technical Skills
 
+### 🖥️ Core Languages & Frameworks
 ![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
@@ -33,22 +34,24 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
+![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
+
+### 🗄️ Databases
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&color=E34F26)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
 ![](https://img.shields.io/badge/Code-Firebird-informational?style=flat&logo=firebirdsql&color=336791)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
-![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=opencv&color=5C3EE8)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=elasticsearch&logo=elasticsearch&color=005571)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=003545)
 
 ### 🧠 AI & Math
+![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=opencv&color=5C3EE8)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
 ![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
 ![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikit-learn&color=F7931E)
 ![](https://img.shields.io/badge/Math-NumPy-informational?style=flat&logo=numpy&color=013243)
@@ -61,17 +64,13 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Sec-Wireshark-informational?style=flat&logo=wireshark&color=1679A7)
 ![](https://img.shields.io/badge/Sec-BurpSuite-informational?style=flat&logo=burpsuite&color=FF6633)
 
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+### 🎨 Style & Frontend
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
 ![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
 
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+### 🛠️ Tools & Infrastructure
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
@@ -91,13 +90,33 @@ It has been many years of passion for software development, today more than ever
 
 ## 📈 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces&show_icons=true&theme=dark)](https://github.com/linces)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact&theme=dark)](https://github.com/linces)
+<table>
+<tr>
+<td>
 
-![](https://github-trophies.vercel.app/?username=linces&theme=onedark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=linces&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/linces)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 	
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/linces)
+
+</td>
+</tr>
+</table>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=linces&theme=redical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/linces)
+
+![](https://github-trophies.vercel.app/?username=linces&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=linces&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/linces?color=blueviolet&style=for-the-badge&logo=github&label=Followers)
+
+</div> 	
 
  ## Simplicity is the ultimate Sophistication
  ## Everything is open source if you know how to break it
