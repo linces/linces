@@ -28,15 +28,22 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=delphi&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=3776AB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=E34F26)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=000000)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&color=000000)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&color=4FC08D)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&color=FF3E00)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&color=009688)
 
 ### 🗄️ Databases
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
@@ -63,6 +70,10 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Sec-Metasploit-informational?style=flat&logo=metasploit&color=2596CD)
 ![](https://img.shields.io/badge/Sec-Wireshark-informational?style=flat&logo=wireshark&color=1679A7)
 ![](https://img.shields.io/badge/Sec-BurpSuite-informational?style=flat&logo=burpsuite&color=FF6633)
+![](https://img.shields.io/badge/Sec-ReverseEng-informational?style=flat&logo=reverbnation&color=E1306C)
+![](https://img.shields.io/badge/Sec-WebScraping-informational?style=flat&logo=scrapy&color=60A839)
+![](https://img.shields.io/badge/Sec-BeautifulSoup-informational?style=flat&logo=python&color=3776AB)
+![](https://img.shields.io/badge/Sec-Selenium-informational?style=flat&logo=selenium&color=43B02A)
 
 ### 🎨 Style & Frontend
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
@@ -85,7 +96,6 @@ It has been many years of passion for software development, today more than ever
 ![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=kubernetes&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=E34F26)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&color=61DAFB)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=E34F26)
 ![](https://img.shields.io/badge/Code-Uniface-informational?style=flat&logo=uniface&color=F7DF1E)
 
 ## 📈 GitHub Stats
