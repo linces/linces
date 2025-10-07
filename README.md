@@ -48,7 +48,7 @@ Hoje, meu foco é em **construir e manter software comercial robusto**, integran
 
 ---
 
-## 💬 Atualmente Aberto Para
+## 🔧 Serviços e consultorias que aceito atualmente:
 
 
  **Delphi 7 ao 13 + Firebird bugfix / manutenção**
@@ -85,7 +85,12 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 
 ## 💼 Habilidades Técnicas
 
-### 🖥️ Linguagens & Frameworks Principais
+<details>
+<summary>
+🖥️ Linguagens & Frameworks Principais
+</summary>
+
+
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&color=E34F26)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
@@ -113,9 +118,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
 ![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&color=009688)
 
----
+</details>
 
-### 🗄️ Bancos de Dados
+
+<details>
+<summary>
+🗄️ Bancos de Dados
+</summary>
+
 ![](https://img.shields.io/badge/DB-Firebird-informational?style=flat&logo=firebirdsql&color=CC0000)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=4479A1)
@@ -131,10 +141,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=elasticsearch&logo=elasticsearch&color=005571)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
 ![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=003545)
+</details>
 
----
 
-### 🧠 IA & Matemática
+<details>
+<summary>
+🧠 IA & Matemática
+</summary>
+
 ![](https://img.shields.io/badge/AI-OpenAI_API-informational?style=flat&logo=openai&color=412991)
 ![](https://img.shields.io/badge/AI-LangChain-informational?style=flat&color=7952B3)
 ![](https://img.shields.io/badge/AI-DeepLearning-informational?style=flat&color=FF4500)
@@ -148,10 +162,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Math-NumPy-informational?style=flat&logo=numpy&color=013243)
 ![](https://img.shields.io/badge/Math-Pandas-informational?style=flat&logo=pandas&color=150458)
 ![](https://img.shields.io/badge/Math-Matplotlib-informational?style=flat&logo=matplotlib&color=11557c)
+</details>
 
----
 
-### 🔐 Segurança & Cracking
+<details>
+<summary>
+🔐 Segurança & Cracking
+</summary>
+
 ![](https://img.shields.io/badge/Security-ICP--Brasil-informational?style=flat&color=003B6F)
 ![](https://img.shields.io/badge/Security-Cryptography-informational?style=flat&color=008080)
 ![](https://img.shields.io/badge/Security-Hashing-informational?style=flat&color=555555)
@@ -166,10 +184,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Sec-WebScraping-informational?style=flat&logo=scrapy&color=60A839)
 ![](https://img.shields.io/badge/Sec-BeautifulSoup-informational?style=flat&logo=python&color=3776AB)
 ![](https://img.shields.io/badge/Sec-Selenium-informational?style=flat&logo=selenium&color=43B02A)
+</details>
 
----
 
-### 🎨 Estilo & Frontend
+<details>
+<summary>
+🎨 Estilo & Frontend
+</summary>
+
 ![](https://img.shields.io/badge/UI-VCL-informational?style=flat&color=007ACC)
 ![](https://img.shields.io/badge/UI-FMX-informational?style=flat&color=FF6F00)
 ![](https://img.shields.io/badge/UI-DevExpress-informational?style=flat&color=FFB400)
@@ -181,10 +203,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
 ![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
+</details>
 
----
 
-### 🛠️ Ferramentas & Infraestrutura
+<details>
+<summary>
+🛠️ Ferramentas & Infraestrutura
+</summary>
+
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
 ![](https://img.shields.io/badge/Tool-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
@@ -201,10 +227,14 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=F05032)
 ![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&color=181717)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=elasticsearch&logo=apache&color=red)
+</details>
 
----
 
-### 🌱 Aprendendo
+<details>
+<summary>
+🌱 Aprendendo
+</summary>
+
 ![](https://img.shields.io/badge/Learning-Dart/Flutter-informational?style=flat&logo=flutter&color=02569B)
 ![](https://img.shields.io/badge/Learning-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
 ![](https://img.shields.io/badge/Learning-React-informational?style=flat&logo=react&color=61DAFB)
@@ -218,6 +248,7 @@ ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 ![](https://img.shields.io/badge/Learning-EdgeComputing-informational?style=flat&logo=cloudflare&color=F38020)
 ![](https://img.shields.io/badge/Learning-Microservices-informational?style=flat&logo=istio&color=466BB0)
 ![](https://img.shields.io/badge/Learning-Serverless-informational?style=flat&logo=aws-lambda&color=FF9900)
+</details>
 
 ---
 
