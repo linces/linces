@@ -1,9 +1,9 @@
 🌎 Available in:
 🇧🇷 [Português](README.md) | 🇺🇸 [English](README.en.md) | 🇪🇸 [Español](README.es.md)
 
-# 👋 Olá!
+# Olá!
 
-🔭 Eu vim do **Clipper**, lá no distante ano de **1995** — quando a maioria dos frameworks de hoje nem eram ideias ainda. 
+Eu vim do **Clipper**, lá no distante ano de **1995** — quando a maioria dos frameworks de hoje nem eram ideias ainda. 
 
 Após uma breve passagem pelo **Visual Basic**, encontrei meu verdadeiro caminho em **Object Pascal / Delphi**, e desde então, trabalhei também com **Python**, **PHP**, **C++**, **C#** e algumas outras linguagens.  
 
