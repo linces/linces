@@ -17,14 +17,14 @@ Hoje, meu foco é em **construir e manter software comercial robusto**, integran
 
 ## 🧠 Destaques & Experiência
 
-- 🧩 **Especialista em Delphi (Object Pascal)** — do Delphi 5 às versões mais recentes, incluindo VCL, FireDAC, ACBr, Horse, UniGUI e desenvolvimento de componentes personalizados.
-- 🐍 **Magia em Python** — usuário intensivo de **web scraping**, **automação**, **análise de dados** e **integração de APIs**.
-- 🐘 **PHP fullstack** — de stacks LAMP clássicos a **APIs Laravel modernas**.
-- ⚙️ **Firebird, PostgreSQL, MySQL** — décadas de experiência profunda, incluindo **PL/SQL** e procedures armazenadas.
-- 🔐 **Assinaturas digitais** — padrão ICP-Brasil, **.P7S detached**, soluções completas de assinatura e validação integradas em Delphi.
-- 💾 **Sistemas de licenças & APIs** — soluções completas de gerenciamento de licenças (ativação online/offline, validação e camadas de proteção).
-- 🧾 **Integrações de pagamentos** — PIX Dinâmico (MercadoPago, Gerencianet), geração de boletos e emissores fiscais (NFe, NFCe, MDFe).
-- 🧰 **Ferramentas de scraping / automação** — de crawlers baseados em Python a fluxos integrados de automação Delphi + browser.
+- **Especialista em Delphi (Object Pascal)** — do Delphi 5 às versões mais recentes, incluindo VCL, FireDAC, ACBr, Horse, UniGUI e desenvolvimento de componentes personalizados.
+- **Magia em Python** — usuário intensivo de **web scraping**, **automação**, **análise de dados** e **integração de APIs**.
+- **PHP fullstack** — de stacks LAMP clássicos a **APIs Laravel modernas**.
+- **Firebird, PostgreSQL, MySQL** — décadas de experiência profunda, incluindo **PL/SQL** e procedures armazenadas.
+- **Assinaturas digitais** — padrão ICP-Brasil, **.P7S detached**, soluções completas de assinatura e validação integradas em Delphi.
+- **Sistemas de licenças & APIs** — soluções completas de gerenciamento de licenças (ativação online/offline, validação e camadas de proteção).
+- **Integrações de pagamentos** — PIX Dinâmico (MercadoPago, Gerencianet), geração de boletos e emissores fiscais (NFe, NFCe, MDFe).
+- **Ferramentas de scraping / automação** — de crawlers baseados em Python a fluxos integrados de automação Delphi + browser.
 
 ---
 
@@ -80,7 +80,7 @@ Hoje, meu foco é em **construir e manter software comercial robusto**, integran
 
 ## 📚 Autor
 
-📘 Co-autor do livro  
+Co-autor do livro  
 **“Delphi 5 com Oracle 8”** — Market Books  
 ISBN-10: 8587393456 | ISBN-13: 978-8587393456
 
