@@ -7,7 +7,7 @@ Eu vim do **Clipper**, lá no distante ano de **1995** — quando a maioria dos 
 
 Após uma breve passagem pelo **Visual Basic**, encontrei meu verdadeiro caminho em **Object Pascal / Delphi**, e desde então, trabalhei também com **Python**, **PHP**, **C++**, **C#** e algumas outras linguagens.  
 
-O Delphi tem sido minha principal linguagem de programação por décadas — eu trabalho com ela **diariamente desde 1998**, em soluções **desktop, web e backend**.  
+O Delphi tem sido minha principal linguagem de programação por décadas — eu trabalho com ela **diariamente desde 1998**.  
 
 Construí e mantive incontáveis sistemas — de apps **legados Firebird + D7** a **APIs REST modernas, integrações OpenDelivery**, **gerenciadores de licenças** e **sistemas de assinatura digital**.
 
