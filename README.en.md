@@ -63,7 +63,6 @@ I've been building robust commercial software for nearly 3 decades. **Delphi/Obj
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[LicençaGo](https://github.com/linces)** | Go + Redis + PostgreSQL + Delphi | License validation service in production, consumed by Delphi apps via gRPC |
 | **PIX Dynamic API** | Go + MercadoPago SDK | Async webhooks, QR Code generation, and reconciliation integrated with Delphi ERPs |
 | **ICP-Brasil Signer** | Delphi + Go (CGO) | Delphi UI, cryptographic core in Go for performance and simplified maintenance |
 | **MercadoScraper** | Python → Go | Data collection in Python, concurrent processing in Go in production, export to Delphi |
