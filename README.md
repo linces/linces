@@ -1,304 +1,144 @@
 🌎 Available in:
+
 🇧🇷 [Português](README.md) | 🇺🇸 [English](README.en.md) | 🇪🇸 [Español](README.es.md)
 
-# Olá!
+# 👋 Olá, eu sou Linces Marques
 
-Eu vim do **Clipper**, lá no distante ano de **1995** — quando a maioria dos frameworks de hoje nem eram ideias ainda. 
+> **Go Developer** com raízes em **Delphi/Object Pascal** desde 1998.
 
-Após uma breve passagem pelo **Visual Basic**, encontrei meu verdadeiro caminho em **Object Pascal / Delphi**, e desde então, trabalhei também com **Python**, **PHP**, **C++**, **Go** e algumas outras linguagens.  
+Construo software comercial robusto há quase 3 décadas. Hoje, meu foco principal é em **Go/Golang** para APIs de alta performance, microsserviços e ferramentas de backend, aproveitando minha experiência profunda em sistemas legados para criar soluções modernas, seguras e escaláveis.
 
-O Delphi tem sido minha principal linguagem de programação por décadas — eu trabalho com ela **diariamente desde 1998**.  
-
-Construí e mantive incontáveis sistemas — de apps **legados Firebird + D7** a **APIs REST modernas, integrações OpenDelivery**, **gerenciadores de licenças** e **sistemas de assinatura digital**.
-
-Hoje, meu foco é em **construir e manter software comercial robusto**, integrando **Delphi + APIs + camadas de segurança**, e oferecendo **soluções prontas para licenciamento** para empresas e desenvolvedores.
+🔹 **Stack principal atual:** Go • Delphi • PostgreSQL/Firebird • Docker • gRPC/REST  
+🔹 **Domínios de atuação:** Licenciamento de software • Assinatura digital ICP-Brasil • Pagamentos PIX • Integrações fiscais (NFe/NFCe)
 
 ---
 
-## 🧠 Destaques & Experiência
+## 🚀 Destaques em Go/Golang
 
-- **Especialista em Delphi (Object Pascal)** — do Delphi 5 às versões mais recentes, incluindo VCL, FireDAC, ACBr, Horse, UniGUI e desenvolvimento de componentes personalizados.
-- **Magia em Python** — usuário intensivo de **web scraping**, **automação**, **análise de dados** e **integração de APIs**.
-- **PHP fullstack** — de stacks LAMP clássicos a **APIs Laravel modernas**.
-- **Firebird, PostgreSQL, MySQL** — décadas de experiência profunda, incluindo **PL/SQL** e procedures armazenadas.
-- **Assinaturas digitais** — padrão ICP-Brasil, **.P7S detached**, soluções completas de assinatura e validação integradas em Delphi.
-- **Sistemas de licenças & APIs** — soluções completas de gerenciamento de licenças (ativação online/offline, validação e camadas de proteção).
-- **Integrações de pagamentos** — PIX Dinâmico (MercadoPago, Gerencianet), geração de boletos e emissores fiscais (NFe, NFCe, MDFe).
-- **Ferramentas de scraping / automação** — de crawlers baseados em Python a fluxos integrados de automação Delphi + browser.
+- **APIs REST & gRPC**: Desenvolvimento de serviços stateless com Gin, Echo e chi, focados em baixa latência e alta concorrência.
+- **Concorrência nativa**: Uso estratégico de goroutines, channels e context para processamento assíncrono e pipelines de dados.
+- **CLI Tools**: Criação de utilitários em Go para automação de deploy, validação de licenças e processamento de arquivos.
+- **Integração com legado**: Ponte entre sistemas Delphi e microsserviços em Go via gRPC, REST ou mensageria.
+- **Segurança aplicada**: Implementação de middleware para autenticação JWT, rate limiting, logging estruturado e criptografia.
 
 ---
 
-## 🤝 Conecte-se comigo
+## 🧠 Experiência Multilíngue (contexto para Go)
 
-<p align="center">
-	<a href="https://wa.me/+5534999623545"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-	<a href="mailto:linces@gmail.com"><img src="https://img.shields.io/badge/Email-linces@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
----
-
-
-## 💼 Alguns Projetos em Destaque
-
-| 🧠 Projeto | 💡 Descrição | 🔗 Link |
-|-------------|----------------|--------|
-| **Assinador e Validador PDF ICP-Brasil (Delphi)** | Assinador e validador .P7S detached — fonte completa em Delphi. | [zaptvupt.com.br/produto/assinador-icp-brasil](https://zaptvupt.com.br/produto/assinador-icp-brasil/) |
-| **MercadoScraper** | Script de Web Scraping de Produtos do Mercado Livre. | [https://github.com/linces/MercadoScraper](https://github.com/linces/MercadoScraper) |
-| **PIX Dinâmico MercadoPago (Delphi)** | Gera QR Codes PIX dinâmicos, pronto para integração. | [hotmart.com/p/pix-dinamico-mercadopago-com-fontes-delphi](https://hotmart.com/pt-br/marketplace/produtos/pix-dinamico-mercadopago-com-fontes-delphi/J93186709F) |
-| **Sistema de Impressão de Etiquetas (Delphi)** | Gerador de etiquetas totalmente configurável — funciona com qualquer impressora. | [hotmart.com/p/impressao-de-etiquetas-com-fontes-delphi](https://hotmart.com/pt-br/marketplace/produtos/impressao-de-etiquetas-com-fontes-delphi-geracao-100-configuravel-e-compativel-com-qualquer-impressora/P98171420E) |
-| **GeradorChaves** | Gerador de chaves de licenciamento Trial/Demo/Shareware para aplicações Delphi. | [https://github.com/linces/GeradorChaves](https://github.com/linces/GeradorChaves) |
-| **SoftArena OpenDelivery API (PHP)** | Implementação completa do padrão OpenDelivery da Abrasel. | [softarena.com.br/produto/softarena-opendelivery-api](https://softarena.com.br/produto/softarena-opendelivery-api/) |
+| Área | Como aplico em Go |
+|------|------------------|
+| **Licenciamento de Software** | Serviços de validação de chaves com cache distribuído e assinatura digital |
+| **Assinatura Digital ICP-Brasil** | Integração com certificados .P7S via bindings CGO ou serviços externos |
+| **Pagamentos PIX** | Webhooks assíncronos, reconciliação de transações e geração de QR Codes dinâmicos |
+| **Sistemas Legados** | Estratégias de migração incremental: Delphi → Go via API Gateway |
+| **Web Scraping / Automação** | Crawlers concorrentes com colly, rodando em containers otimizados |
 
 ---
 
-## 🔧 Serviços e consultorias que aceito atualmente:
+## 💼 Projetos em Destaque
 
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| **[LicençaGo](https://github.com/linces)** *(em desenvolvimento)* | Go + Redis + PostgreSQL | Serviço de validação de licenças com ativação online/offline e proteção contra reversão |
+| **PIX Dinâmico API** | Go + MercadoPago SDK | Geração e consulta de QR Codes PIX com webhooks assíncronos |
+| **Assinador ICP-Brasil** | Delphi + Go (CGO) | Assinatura .P7S detached com núcleo criptográfico em Go para performance |
+| **MercadoScraper** | Python → Go (refatoração planejada) | Coleta de dados do Mercado Livre com processamento concorrente |
+| **OpenDelivery API** | PHP → Go (migração em andamento) | Implementação do padrão Abrasel com foco em escalabilidade |
 
- **Delphi 7 ao 13 + Firebird bugfix / manutenção**
+> 🔗 *Mais projetos em*: [github.com/linces](https://github.com/linces)
 
- **Integração REST API (OAuth/JSON)** 
+---
 
- **Integração de boletos (Delphi desktop)**
+## 🔧 Consultorias & Serviços (foco Go)
 
- **Ajustes GUI (Delphi 10.x + DevExpress)**
+✅ Desenvolvimento de APIs REST/gRPC em Go para integração com sistemas Delphi  
+✅ Migração incremental de módulos críticos: Delphi → Go  
+✅ Implementação de workers assíncronos para processamento de filas (RabbitMQ/Kafka)  
+✅ Criação de CLI tools para automação de deploy, validação e monitoramento  
+✅ Integração de pagamentos PIX com webhooks e reconciliação em Go  
+✅ Consultoria de arquitetura para sistemas legados com estratégia de modernização
 
- **Implementação de autenticação SAML / ADFS**
+---
 
- **Modernização de Aplicações Delphi: Do Desktop para a Web e Além**
+## 🛠️ Stack Técnica (essencial)
 
- **ETL e Migração de Dados com SQL/Firebird em Delphi**
+<details>
+<summary>💻 Linguagens & Frameworks</summary>
 
- **Automação Web e Scraping E-commerce em Python**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-E34F26?style=flat-square&logo=delphi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
- **Integrações de Pagamentos PIX**
+**Frameworks Go**: Gin • Echo • chi • gRPC • Cobra • Viper • GORM • sqlx  
+**Delphi**: VCL • FireDAC • Horse • UniGUI • ACBr
 
- **Desenvolvimento ou Integrações de código para assinatura digital**
+</details>
 
- **Migração/Replicação de Banco de Dados**
+<details>
+<summary>🗄️ Bancos de Dados & Infra</summary>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-CC0000?style=flat-square&logo=firebirdsql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Ferramentas**: Git • GitHub Actions • Make • Air (live reload) • golangci-lint
+
+</details>
+
+<details>
+<summary>🔐 Segurança & Domínios</summary>
+
+![ICP-Brasil](https://img.shields.io/badge/ICP--Brasil-003B6F?style=flat-square)
+![PIX](https://img.shields.io/badge/PIX-77B829?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+
+Criptografia • Assinatura Digital • OAuth2 • Rate Limiting • Logging Estruturado
+
+</details>
 
 ---
 
 ## 📚 Autor
 
 Co-autor do livro  
-**“Delphi 5 com Oracle 8”** — Market Books  
-ISBN-10: 8587393456 | ISBN-13: 978-8587393456
+**"Delphi 5 com Oracle 8"** — Market Books  
+ISBN: 978-8587393456
 
 ---
 
-## 💼 Habilidades Técnicas
-
-<details>
-<summary>
-🖥️ Linguagens & Frameworks Principais
-</summary>
-
-
-![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&color=E34F26)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&color=239120)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![](https://img.shields.io/badge/Framework-UniGUI-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Framework-Horse-informational?style=flat&color=gray)
-![](https://img.shields.io/badge/Framework-ACBr-informational?style=flat&color=orange)
-![](https://img.shields.io/badge/Code-Pascal-informational?style=flat&logo=Pascal&color=F7DF1E)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=000000)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=next.js&color=000000)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=reactnative&color=61DAFB)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&color=4FC08D)
-![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&color=FF3E00)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JQuery-informational?style=flat&logo=jquery&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=61DAFB)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=61DAFB)
-![](https://img.shields.io/badge/Code-Express-informational?style=express&logo=express&color=E34F26)
-![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&color=009688)
-
-</details>
-
-
-<details>
-<summary>
-🗄️ Bancos de Dados
-</summary>
-
-![](https://img.shields.io/badge/DB-Firebird-informational?style=flat&logo=firebirdsql&color=CC0000)
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&color=336791)
-![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&color=4479A1)
-![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&color=F80000)
-![](https://img.shields.io/badge/DB-SQLServer-informational?style=flat&logo=microsoftsqlserver&color=CC2927)
-![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite&color=003B57)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&color=E34F26)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
-![](https://img.shields.io/badge/Code-Firebird-informational?style=flat&logo=firebirdsql&color=336791)
-![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=sql&color=61DAFB)
-![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=elasticsearch&logo=elasticsearch&color=005571)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
-![](https://img.shields.io/badge/Code-MariaDB-informational?style=mariadb&logo=mariadb&color=003545)
-</details>
-
-
-<details>
-<summary>
-🧠 IA & Matemática
-</summary>
-
-![](https://img.shields.io/badge/AI-OpenAI_API-informational?style=flat&logo=openai&color=412991)
-![](https://img.shields.io/badge/AI-LangChain-informational?style=flat&color=7952B3)
-![](https://img.shields.io/badge/AI-DeepLearning-informational?style=flat&color=FF4500)
-![](https://img.shields.io/badge/Math-Numpy-informational?style=flat&logo=numpy&color=013243)
-![](https://img.shields.io/badge/Math-Pandas-informational?style=flat&logo=pandas&color=150458)
-![](https://img.shields.io/badge/Math-ScikitLearn-informational?style=flat&logo=scikitlearn&color=F7931E)
-![](https://img.shields.io/badge/Code-OpenCV-informational?style=opencv&logo=opencv&color=5C3EE8)
-![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=tensorflow&color=FF6F00)
-![](https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&color=EE4C2C)
-![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikit-learn&color=F7931E)
-![](https://img.shields.io/badge/Math-NumPy-informational?style=flat&logo=numpy&color=013243)
-![](https://img.shields.io/badge/Math-Pandas-informational?style=flat&logo=pandas&color=150458)
-![](https://img.shields.io/badge/Math-Matplotlib-informational?style=flat&logo=matplotlib&color=11557c)
-</details>
-
-
-<details>
-<summary>
-🔐 Segurança & Cracking
-</summary>
-
-![](https://img.shields.io/badge/Security-ICP--Brasil-informational?style=flat&color=003B6F)
-![](https://img.shields.io/badge/Security-Cryptography-informational?style=flat&color=008080)
-![](https://img.shields.io/badge/Security-Hashing-informational?style=flat&color=555555)
-![](https://img.shields.io/badge/Security-Auth/OAuth2-informational?style=flat&color=purple)
-![](https://img.shields.io/badge/Security-License_Protection-informational?style=flat&color=green)
-![](https://img.shields.io/badge/Security-Code_Obfuscation-informational?style=flat&color=gray)
-![](https://img.shields.io/badge/Sec-Kali-informational?style=flat&logo=kalilinux&color=557C94)
-![](https://img.shields.io/badge/Sec-Metasploit-informational?style=flat&logo=metasploit&color=2596CD)
-![](https://img.shields.io/badge/Sec-Wireshark-informational?style=flat&logo=wireshark&color=1679A7)
-![](https://img.shields.io/badge/Sec-BurpSuite-informational?style=flat&logo=burpsuite&color=FF6633)
-![](https://img.shields.io/badge/Sec-ReverseEng-informational?style=flat&logo=reverbnation&color=E1306C)
-![](https://img.shields.io/badge/Sec-WebScraping-informational?style=flat&logo=scrapy&color=60A839)
-![](https://img.shields.io/badge/Sec-BeautifulSoup-informational?style=flat&logo=python&color=3776AB)
-![](https://img.shields.io/badge/Sec-Selenium-informational?style=flat&logo=selenium&color=43B02A)
-</details>
-
-
-<details>
-<summary>
-🎨 Estilo & Frontend
-</summary>
-
-![](https://img.shields.io/badge/UI-VCL-informational?style=flat&color=007ACC)
-![](https://img.shields.io/badge/UI-FMX-informational?style=flat&color=FF6F00)
-![](https://img.shields.io/badge/UI-DevExpress-informational?style=flat&color=FFB400)
-![](https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&color=E34F26)
-![](https://img.shields.io/badge/Frontend-CSS3-informational?style=flat&logo=css3&color=1572B6)
-![](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-TailWind-informational?style=flat&logo=tailwind-css&color=1572B6)
-![](https://img.shields.io/badge/Style-Materialize-informational?style=flat&logo=materialize-css&color=7952B3)
-</details>
-
-
-<details>
-<summary>
-🛠️ Ferramentas & Infraestrutura
-</summary>
-
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
-![](https://img.shields.io/badge/Tool-GitHub_Actions-informational?style=flat&logo=githubactions&color=2088FF)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&color=FF6C37)
-![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visualstudiocode&color=007ACC)
-![](https://img.shields.io/badge/Tool-RadStudio-informational?style=flat&logo=embarcadero&color=E62431)
-![](https://img.shields.io/badge/Tool-OpenSSL-informational?style=flat&color=green)
-![](https://img.shields.io/badge/Tool-Apache-informational?style=flat&logo=apache&color=D22128)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-VirtualBox-informational?style=flat&logo=virtualbox&color=F05032)
-![](https://img.shields.io/badge/Tools-VMWare-informational?style=flat&logo=vmware&color=181717)
-![](https://img.shields.io/badge/Tools-Apache-informational?style=elasticsearch&logo=apache&color=red)
-</details>
-
-
-<details>
-<summary>
-🌱 Aprendendo
-</summary>
-
-![](https://img.shields.io/badge/Learning-Dart/Flutter-informational?style=flat&logo=flutter&color=02569B)
-![](https://img.shields.io/badge/Learning-Kubernetes-informational?style=flat&logo=kubernetes&color=326CE5)
-![](https://img.shields.io/badge/Learning-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Learning-Blockchain-informational?style=flat&color=gray)
-![](https://img.shields.io/badge/Learning-AI_Agents-informational?style=flat&color=purple)
-![](https://img.shields.io/badge/Learning-WebAssembly-informational?style=flat&logo=webassembly&color=654FF0)
-![](https://img.shields.io/badge/Learning-GraphQL-informational?style=flat&logo=graphql&color=E10098)
-![](https://img.shields.io/badge/Learning-Blockchain-informational?style=flat&logo=bitcoin&color=F7931A)
-![](https://img.shields.io/badge/Learning-Solidity-informational?style=flat&logo=solidity&color=363636)
-![](https://img.shields.io/badge/Learning-Quantum-informational?style=flat&logo=qiskit&color=6929C4)
-![](https://img.shields.io/badge/Learning-EdgeComputing-informational?style=flat&logo=cloudflare&color=F38020)
-![](https://img.shields.io/badge/Learning-Microservices-informational?style=flat&logo=istio&color=466BB0)
-![](https://img.shields.io/badge/Learning-Serverless-informational?style=flat&logo=aws-lambda&color=FF9900)
-</details>
-
----
-
-## 📈 Estatísticas do GitHub
+## 📈 Atividade GitHub
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linces&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/linces)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/linces)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=linces&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/linces)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linces&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/linces)
-
-</td>
-</tr>
-</table>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=linces&theme=radical&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/linces)
-
-![](https://github-trophies.vercel.app/?username=linces&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=linces&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/linces?color=blueviolet&style=for-the-badge&logo=github&label=Followers)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=linces&theme=github-compact&hide_border=true&custom_title=Contribuições)
 
 </div>
 
 ---
 
-## 🤝 Conecte-se comigo
+## 🤝 Vamos conversar?
 
 <p align="center">
-	<a href="https://wa.me/+5534999623545"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-	<a href="mailto:linces@gmail.com"><img src="https://img.shields.io/badge/Email-linces@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/+5534999623545">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:linces@gmail.com">
+    <img src="https://img.shields.io/badge/Email-linces@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lincesmarques/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
 
-> “A simplicidade é a sofisticação final.”  
-> “Tudo é open source se você souber como quebrá-lo.”
+> *"Simplicidade é a sofisticação final."*  
+> *"Tudo é open source se você souber como ler o binário."*
 
---
-
-> Outubro de 2025
+📍 Ituiutaba - MG, Brasil • 🕐 UTC-3  
+🔄 README atualizado: $(date +%Y-%m)
