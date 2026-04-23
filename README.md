@@ -63,7 +63,6 @@ Construo software comercial robusto há quase 3 décadas. **Delphi/Object Pascal
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
-| **[LicençaGo](https://github.com/linces)** | Go + Redis + PostgreSQL + Delphi | Serviço de validação de licenças em produção, consumido por apps Delphi via gRPC |
 | **PIX Dinâmico API** | Go + MercadoPago SDK | Webhooks assíncronos, geração de QR Codes e reconciliação integrados a ERPs Delphi |
 | **Assinador ICP-Brasil** | Delphi + Go (CGO) | UI em Delphi, núcleo criptográfico em Go para performance e manutenção simplificada |
 | **MercadoScraper** | Python → Go | Coleta em Python, processamento concorrente em Go em produção, exportação para Delphi |
