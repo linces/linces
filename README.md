@@ -47,46 +47,6 @@ Construo software comercial robusto há quase 3 décadas. **Delphi/Object Pascal
 
 ---
 
-## 🧠 Experiência Multilíngue na Prática
-
-| Área | Stack Aplicada |
-|------|---------------|
-| **Licenciamento de Software** | Delphi (cliente) + Go (validação em produção) + Redis (cache) |
-| **Assinatura Digital ICP-Brasil** | Delphi (UI/fluxo) + Go/CGO (núcleo criptográfico) |
-| **Pagamentos PIX** | Go (webhooks + reconciliação) + Delphi (integração ERP) |
-| **Sistemas Legados** | Delphi (core) + Go (novos endpoints) + Python (scripts de migração) |
-| **Web Scraping / Automação** | Python (coleta) → Go (processamento concorrente) → Delphi (exibição) |
-
----
-
-## 💼 Projetos em Destaque
-
-| Projeto | Stack | Descrição |
-|---------|-------|-----------|
-| **PIX Dinâmico API** | Go + MercadoPago SDK | Webhooks assíncronos, geração de QR Codes e reconciliação integrados a ERPs Delphi |
-| **Assinador ICP-Brasil** | Delphi + Go (CGO) | UI em Delphi, núcleo criptográfico em Go para performance e manutenção simplificada |
-| **MercadoScraper** | Python → Go | Coleta em Python, processamento concorrente em Go em produção, exportação para Delphi |
-| **OpenDelivery API** | PHP → Go + Delphi | Migração de backend para Go com manutenção do frontend Delphi |
-| **LocalAI Utils** | Python + llama.cpp | Ferramentas para execução local de modelos de IA com foco em privacidade |
-
-> 🔗 *Mais projetos em*: [github.com/linces](https://github.com/linces)
-
----
-
-## 🔧 Consultorias & Serviços
-
-✅ **Suporte e evolução de sistemas Delphi** (VCL, FireMonkey, FireDAC, Horse, ACBr, UniGUI)  
-✅ **Desenvolvimento em Go para produção**: APIs REST/gRPC, workers assíncronos, CLI tools operacionais  
-✅ **Porting estratégico Delphi → Go**: análise, adaptação e migração incremental de módulos críticos  
-✅ **APIs híbridas**: Delphi e Go coexistindo via gRPC, REST, RabbitMQ ou Kafka  
-✅ **Workers assíncronos em Go** para descarregar processamento pesado de sistemas Delphi  
-✅ **CLI tools** em Go ou Python para automação de deploy, validação, health checks e monitoramento  
-✅ **Scripts de web scraping e automação** com Python (Scrapy, Selenium, Playwright)  
-✅ **Integração de pagamentos PIX** com webhooks, reconciliação e geração de QR Codes em Go + Delphi  
-✅ **Consultoria de arquitetura** para modernização sem romper com o legado funcional
-
----
-
 ## 🛠️ Stack Técnica (essencial)
 
 <details>
